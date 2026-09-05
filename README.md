@@ -1,5 +1,15 @@
 # Paul's Computer
 
+## Watch the original: Celery Man
+
+It all starts with Tim & Eric's **Celery Man**, also known as **Paul Rudd's Computer**. Watch the sketch that inspired this project:
+
+[![Watch the original Celery Man / Paul Rudd's Computer sketch on YouTube](https://img.youtube.com/vi/maAFcEU6atk/maxresdefault.jpg)](https://www.youtube.com/watch?v=maAFcEU6atk)
+
+**[▶ Watch Celery Man on YouTube](https://www.youtube.com/watch?v=maAFcEU6atk)**
+
+## The web version
+
 An interactive homage to **Celery Man / Paul Rudd's Computer**: a cyan desktop, beveled windows, a politely absurd computer, and actual animated 3D characters. Type an identity, wait for the computer to build it, then direct its movements.
 
 ## Screenshots
